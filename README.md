@@ -1,4 +1,5 @@
-# food-shop
+# Сервис доставки еды
+### Посмотреть можно здесь [Configuration Reference]([https://cli.vuejs.org/config/](https://turdiev.github.io/burgers-shop/#/)).
 
 ## Project setup
 ```
