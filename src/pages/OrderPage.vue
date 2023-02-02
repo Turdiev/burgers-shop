@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import BannerPage from './../components/blocks/BannerPage.vue';
+import BannerPage from '@/components/blocks/BannerPage.vue';
 
 export default {
   name: 'OrderPage',

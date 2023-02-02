@@ -35,9 +35,9 @@
 </template>
 
 <script>
-import AppContainer from './../../components/AppContainer.vue';
-import AppTitle from './../../components/AppTitle.vue';
-import AppButton from './../../components/AppButton.vue';
+import AppContainer from "@/components/components/AppContainer.vue";
+import AppButton from "@/components/components/AppButton.vue";
+import AppTitle from "@/components/components/AppTitle.vue";
 import MenuTab from './MenuTab.vue';
 import MenuCard from './MenuCard.vue';
 

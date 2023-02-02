@@ -21,8 +21,8 @@
 </template>
 
 <script>
-import AppContainer from './../../components/AppContainer.vue';
-import AppTitle from './../../components/AppTitle.vue';
+import AppContainer from "@/components/components/AppContainer.vue";
+import AppTitle from "@/components/components/AppTitle.vue";
 import WorkItem from './WorkItem.vue';
 
 export default {

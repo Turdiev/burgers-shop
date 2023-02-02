@@ -14,13 +14,13 @@
 </template>
 
 <script>
-import MainBlock from './../components/blocks/MainBlock.vue';
-import AboutUsBlock from './../components/blocks/AboutUsBlock.vue';
-import WorkBlock from './../components/blocks/workBlock/WorkBlock.vue';
-import MenuBlock from './../components/blocks/menuBlock/MenuBlock.vue';
-import FAQBlock from './../components/blocks/FAQBlock.vue';
-import CallBlock from './../components/blocks/CallBlock.vue';
-import BannersBlock from './../components/blocks/bannersBlock/BannersBlock.vue';
+import MainBlock from '@/components/blocks/MainBlock.vue';
+import AboutUsBlock from '@/components/blocks/AboutUsBlock.vue';
+import WorkBlock from '@/components/blocks/workBlock/WorkBlock.vue';
+import MenuBlock from '@/components/blocks/menuBlock/MenuBlock.vue';
+import FAQBlock from '@/components/blocks/FAQBlock.vue';
+import CallBlock from '@/components/blocks/CallBlock.vue';
+import BannersBlock from '@/components/blocks/bannersBlock/BannersBlock.vue';
 
 export default {
   name: 'HomePage',

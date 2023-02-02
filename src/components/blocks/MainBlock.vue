@@ -46,8 +46,8 @@
 </template>
 
 <script>
-import AppContainer from './../components/AppContainer.vue';
-import AppButton from './../components/AppButton.vue';
+import AppContainer from "@/components/components/AppContainer.vue";
+import AppButton from "@/components/components/AppButton.vue";
 import { gsap } from 'gsap';
 
 export default {
@@ -59,7 +59,6 @@ export default {
     },
 
     mounted() {
-        console.log('ref', this.$refs.button);
         this.AnimationMainBlock();
     },
 
@@ -93,7 +92,8 @@ export default {
             });
             gsap.to(image, {
                 opacity: '1',
-                duration: 0.5,
+                duration: 0.6,
+                delay: 0.6
             });
         }
     }

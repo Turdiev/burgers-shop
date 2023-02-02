@@ -20,7 +20,7 @@
 </template>
 
 <script>
-import AppButton from './../../components/AppButton.vue';
+import AppButton from "@/components/components/AppButton.vue";
 
 export default {
     name: 'BannerCard',
