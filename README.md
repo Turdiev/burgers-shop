@@ -1,25 +1,20 @@
-# Сервис доставки еды
-### Посмотреть можно [здесь](https://turdiev.github.io/burgers-shop/#/).
+# Food delivery site on vue2 and vuex
 
-## Project setup
-```
-npm install
-```
+![SPA Vue2](src/assets/images/screenshot.png "SPA Vue2")
+[Watch here](https://turdiev.github.io/burgers-shop/)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Tools
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- [Vue CLI](https://cli.vuejs.org/)
+- [Vue2](https://v2.vuejs.org/v2/guide/)
+- [Vuex](https://vuex.vuejs.org/)
+- [Vue Router](https://router.vuejs.org/introduction.html)
+- [Gsap](https://greensock.com/docs/)
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Usage
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+After installing the dependencies the following NPM scripts become available:
+
+- `serve`: starts the application in development mode on [http://localhost:8080](http://localhost:9000)
+- `build`: bundles the application for production into the `dist` folder
+- `lint`: lint
